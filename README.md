@@ -13,6 +13,8 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
 
 # Dataset
 
+La información esta separa en 11 archivos CSV y 1 archivo JSON, este ultimo contiene la descripción de los datos.
+
 /Dataset
 
 # Tecnologias utilizadas
