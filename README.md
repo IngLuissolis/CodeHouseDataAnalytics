@@ -15,7 +15,7 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
 
 -Desafio 01 - Descripción del Proyecto - Hipotesis
 
--Desafio 02 - Definición Modelo relacional
+- Desafio 02 - Definición Modelo relacional
     - DataSet: Archivos se encuentran en carpeta /DataSet
     - Diagrama Entidad-Relación: /DiagramaER-DataSet.pdf
     - Listado de Tablas: se encuentra en archivo /DataSet/DataSet.xls - solapa Listado de Tablas
