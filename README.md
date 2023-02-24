@@ -13,7 +13,10 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
 
 # Desafios
 
-- Desafio 01 - Descripción del Proyecto - Hipotesis
+- Desafio 03: Prototipo del Tablero
+    - Archivo:
+        - AnalisisCampeonQatar2022_LuisSolis.pdf
+        - ProyectoFinal.pbix 
 
 - Desafio 02 - Definición Modelo relacional
     - DataSet: Archivos se encuentran en carpeta /DataSet
@@ -21,6 +24,7 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
     - Listado de Tablas: se encuentra en archivo /DataSet/DataSet.xls - solapa Listado de Tablas
     - Listado de columnas de cada tabla: se encuentra en archivo /DataSet/DataSet.xls - solapa Listado de columnas
 
+- Desafio 01 - Descripción del Proyecto - Hipotesis
 
 # Dataset
 
