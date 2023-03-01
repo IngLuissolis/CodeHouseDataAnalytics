@@ -16,7 +16,7 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
 - Desafio 03: Prototipo del Tablero
     - Archivo:
         - AnalisisCampeonQatar2022_LuisSolis.pdf
-        - ProyectoFinal.pbix 
+        - ProyectoFinal.pbix
 
 - Desafio 02 - Definición Modelo relacional
     - DataSet: Archivos se encuentran en carpeta /DataSet
