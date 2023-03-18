@@ -49,7 +49,7 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
 
 # Análisis Indicadores (Análisis Argentina vs Francia, Croacia, Marruecos)
 
-- Indicadores Ataque x Team
+- Indicadores Ataque x Team (https://github.com/IngLuissolis/CodeHouseDataAnalytics/blob/master/Imagen/Indicadores_Ataque.png)
 
 
 
