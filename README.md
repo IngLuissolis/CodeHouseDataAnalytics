@@ -22,7 +22,7 @@ Para el presente trabajo, se extrajo información de los atributos y estadístic
     - Indicadores x Jugador
     - Glosario
 
-- Tablas ( Descripción de Tablas en archivo AnalisisCempeonQatar2022.pdf )
+- Tablas ( Descripción de Tablas en archivo https://github.com/IngLuissolis/CodeHouseDataAnalytics/blob/master/AnalisisCampeonQatar2022_LuisSolis.pdf )
     - Calendario “birth_year_player”
     - puente “player” (Dimensiones)
     - player_defense
